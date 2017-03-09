@@ -1,3 +1,5 @@
+/* Tutorial: https://aerotwist.com/tutorials/creating-particles-with-three-js/ */
+
 var camera;
 var controls;
 var scene;
